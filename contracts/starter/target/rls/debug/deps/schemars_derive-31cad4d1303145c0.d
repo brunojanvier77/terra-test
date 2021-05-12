@@ -1,0 +1,12 @@
+/home/bjr/testcontract/contracts/starter/target/rls/debug/deps/libschemars_derive-31cad4d1303145c0.so: /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/lib.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/ast/mod.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/ast/from_serde.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/attr/mod.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/attr/doc.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/attr/schemars_to_serde.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/metadata.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/schema_exprs.rs
+
+/home/bjr/testcontract/contracts/starter/target/rls/debug/deps/schemars_derive-31cad4d1303145c0.d: /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/lib.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/ast/mod.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/ast/from_serde.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/attr/mod.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/attr/doc.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/attr/schemars_to_serde.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/metadata.rs /home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/schema_exprs.rs
+
+/home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/lib.rs:
+/home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/ast/mod.rs:
+/home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/ast/from_serde.rs:
+/home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/attr/mod.rs:
+/home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/attr/doc.rs:
+/home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/attr/schemars_to_serde.rs:
+/home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/metadata.rs:
+/home/bjr/.cargo/registry/src/github.com-1ecc6299db9ec823/schemars_derive-0.7.6/src/schema_exprs.rs:
